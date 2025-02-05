@@ -1,0 +1,29 @@
+# Pasta de binários e arquivos compilados
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Arquivos temporários do Unreal
+*.idb
+*.pdb
+*.obj
+*.log
+*.tmp
+
+# Arquivos do Visual Studio
+.vs/
+*.sln
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Arquivos do MacOS
+.DS_Store
+*.xcworkspace
+*.xcuserstate
+
+# Arquivos de backup do sistema
+Thumbs.db
